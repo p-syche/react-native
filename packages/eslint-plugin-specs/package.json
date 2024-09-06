@@ -27,12 +27,12 @@
     "postpack": "node postpack.js"
   },
   "dependencies": {
-    "@babel/core": "^7.20.0",
+    "@babel/core": "^7.23.2",
     "@babel/eslint-parser": "^7.20.0",
     "@babel/plugin-transform-flow-strip-types": "^7.20.0",
     "@babel/preset-flow": "^7.20.0",
     "@react-native/codegen": "0.76.0-main",
-    "make-dir": "^2.1.0",
+    "make-dir": "^4.0.0",
     "pirates": "^4.0.1",
     "source-map-support": "0.5.0"
   }
