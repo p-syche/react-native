@@ -30,10 +30,10 @@
   ],
   "dependencies": {
     "@babel/parser": "^7.25.3",
-    "glob": "^7.1.1",
+    "glob": "^9.0.0",
     "hermes-parser": "0.25.1",
     "invariant": "^2.2.4",
-    "jscodeshift": "^17.0.0",
+    "jscodeshift": "^17.1.0",
     "nullthrows": "^1.1.1",
     "yargs": "^17.6.2"
   },
